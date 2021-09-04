@@ -1,4 +1,4 @@
-# 音声認識のライブラリをインポート（Them thu vien nhan dien giong noi)1
+# 音声認識のライブラリをインポート（Them thu vien nhan dien giong noi)
 import speech_recognition
 # アシスタントの話をレコーディングしMP3ファイルを保存するためのライブラリ
 import gtts
